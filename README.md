@@ -1,4 +1,4 @@
-MIT Modelling and Optimization for Machine Learning
+### MIT Modelling and Optimization for Machine Learning
 
 Purpose: this repository if for group project during July 15-19, 2019.  The intention was to implement gradient descent for a binary classification model to better understand the optimization process for training a machine learning algorithm.  
 
